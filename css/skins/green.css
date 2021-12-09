@@ -1,7 +1,6 @@
-/* No Content: http://slimhamdi.net/tunis/dark/css/skins/yellowgreen.css */
 /* =================================================================== */
 
-/* YELLOW #ffb400
+/* Green #72b626
 ====================================================================== */
 
 .home h1,
@@ -16,7 +15,7 @@ body.light #menu li.active a,
 .portfolio .slideshow a,
 .portfolio .grid figure:hover figcaption,
 .blog-post .meta i {
-    color: #a2dd17;
+    color: #72b626;
 }
 
 .home .home-details h1:before,
@@ -40,7 +39,7 @@ body.light .header ul.icon-menu li.icon-box:hover,
 .portfolio .slideshow .carousel-indicators li.active,
 .button:before,
 .button-icon {
-    background-color: #a2dd17;
+    background-color: #72b626;
 }
 
 .contact .contactform input[type=text]:focus,
@@ -54,11 +53,11 @@ body.light.contact .contactform textarea:focus,
 body.light.blog .page-item.active .page-link,
 body.light.blog .page-link:hover,
 .button {
-    border: 1px solid #a2dd17;
+    border: 1px solid #72b626;
 }
 
 .blog .post-thumb {
-    border-bottom: 5px solid #a2dd17;
+    border-bottom: 5px solid #72b626;
 }
 
 .pie,
